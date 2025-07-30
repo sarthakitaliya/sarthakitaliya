@@ -1,6 +1,5 @@
 # 💫 Hey, I'm Sarthak
 
----
 
 ## 💻 Tech Stack
 
