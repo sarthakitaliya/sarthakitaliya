@@ -1,14 +1,5 @@
 # 💫 Hey, I'm Sarthak
 
-![banner](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f/fbc6f31bd3b84159470b973aca7e0f97.gif)
-
-## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/Website-sarthak--dev.me-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarthak-dev.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-italiya/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
-
-
 ---
 
 ## 💻 Tech Stack
@@ -33,8 +24,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sarthakitaliya&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+## 🌐 Socials
 
-<!-- Created by Sarthak using raw markdown & real projects. -->
+[![Portfolio](https://img.shields.io/badge/Website-sarthak--dev.me-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarthak-dev.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-italiya/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
+
+---
+![sarthakitaliya's Stats](https://github-readme-stats.vercel.app/api?username=sarthakitaliya&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+
