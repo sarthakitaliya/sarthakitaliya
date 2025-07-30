@@ -31,6 +31,6 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
 
 ---
-![sarthakitaliya's Stats](https://github-readme-stats.vercel.app/api?username=sarthakitaliya&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=sarthakitaliya&theme=dark&hide_border=false)<br/>
 
 
