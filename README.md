@@ -33,7 +33,3 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakitaliya&theme=dark&hide_border=false" alt="sarthak streak stats" />
-</p>
