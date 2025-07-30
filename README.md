@@ -26,7 +26,7 @@
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Website-sarthak--dev.me-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarthak-dev.me)
+![Portfolio](https://www.sarthak-dev.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-italiya/)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
 
