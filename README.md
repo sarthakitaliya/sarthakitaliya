@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=sarthakitaliya&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakitaliya&theme=dark&hide_border=false" alt="sarthak streak stats" />
 </p>
