@@ -1,5 +1,40 @@
-# Hi there, I'm Sarthak 👋  
-[ build → learn → grow ]
+# 💫 Hey, I'm Sarthak
 
-I'm a 20-year-old BCA student and a self-driven developer who believes in growing through consistent learning and by building real-world solutions. Every project I take on is a chance to explore something new — whether it's diving deeper into backend systems, optimizing frontend experiences, or deploying full-stack applications in production. I learn fast. I build with intention. I grow with every line of code. I'm currently open to opportunities where I can contribute, learn, and grow with a passionate team.
-There's a lot more to build and even more to improve.
+![banner](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f/fbc6f31bd3b84159470b973aca7e0f97.gif)
+
+## 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Website-sarthak--dev.me-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarthak-dev.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-italiya/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
+
+
+---
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=Zustand&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%2300bfff.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sarthakitaliya&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Created by Sarthak using raw markdown & real projects. -->
