@@ -1,5 +1,8 @@
 # 💫 Hey, I'm Sarthak
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="300" />
+</p>
 
 ## 🛠️ Stack I Use
 
@@ -30,8 +33,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sarthaktwtt)
 
 ---
-<div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=sarthakitaliya&theme=dark&hide_border=false)
-</div>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakitaliya&theme=dark&hide_border=false" alt="sarthak's streak stats" />
+</p>
